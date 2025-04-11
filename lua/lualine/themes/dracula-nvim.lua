@@ -6,7 +6,7 @@ local bg = configs.lualine_bg_color or colors.bg
 
 local normal = {
    a = { fg = colors.black, bg = colors.green, gui = 'bold' },
-   b = { fg = colors.purple, bg = bg },
+   b = { fg = colors.green, bg = bg },
    c = { fg = colors.white, bg = bg },
 }
 
@@ -33,7 +33,7 @@ local replace = {
 
 local insert = {
    a = { fg = colors.black, bg = colors.purple, gui = 'bold' },
-   b = { fg = colors.green, bg = bg },
+   b = { fg = colors.purple, bg = bg },
    c = { fg = colors.white, bg = bg },
 }
 

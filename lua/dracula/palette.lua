@@ -42,7 +42,7 @@ return {
    bright_magenta = "#FF92DF",
    bright_cyan = "#A4FFFF",
    bright_white = "#FFFFFF",
-   menu = "#21222C",
+   menu = "#3d3f52",
    visual = "#3E4452",
    gutter_fg = "#4B5263",
    nontext = "#3B4048",
