@@ -2,7 +2,7 @@ local dracula = require("dracula")
 local configs = dracula.configs()
 local colors = dracula.colors()
 
-local bg = configs.lualine_bg_color or colors.bg
+local bg = colors.bg
 
 local normal = {
    a = { fg = colors.black, bg = colors.purple, gui = 'bold' },
